@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 12, 2014, 2:00:33 PM
+    Author     : vishwajeet
+*/
+.form_box{
+    margin-left: 40px;
+    margin-bottom: 10px;
+    min-height: 30px;
+    border-radius: 4px;
+    border: 0px;
+}
+.name{
+    margin-bottom: 15px;
+    margin-left: 35px;
+}
+#button{
+    height: 30px;
+    text-align: center;
+    width: 100px;
+    border: 0px;
+    background-color: #91f9e5;
+    margin-left: 260px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+#button:hover{
+    height: 30px;
+    text-align: center;
+    width: 100px;
+    border: 0px;
+    background-color: orangered;
+}
+#error > p{
+    background-color: red;
+    color: yellow;
+    padding: 4px;
+    text-align: center;
+}

@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 12, 2014, 4:12:33 PM
+    Author     : vishwajeet
+*/
+#select{
+    margin-left: 200px;
+    height: 25px;
+    width: 100px;
+    border: 0px;
+    text-align: center;
+}
+#form_button{
+    margin-left: 50px;
+    height: 30px;
+    width: 100px;
+    background-color: #91f9e5;
+    border: 0px;
+    border-radius: 4px;
+}
+#box{
+    height: 150px;
+    width: 500px;
+    background-color: #34495e;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#pic{
+    height: 120px;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+#detail{
+    margin-left: 50px;
+    color: yellowgreen;
+}
+#follow{
+    margin-left: 60px;
+    height: 20px;
+    width: 100px;
+    background-color: #0eef6d;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 8px;
+}
+#follow:hover{
+    margin-left: 60px;
+    height: 20px;
+    width: 100px;
+    background-color: yellowgreen;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 8px;
+}
+#unfollow{
+    margin-left: 60px;
+    height: 20px;
+    width: 100px;
+    background-color: red;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 8px;
+    color: whitesmoke;
+}
+#unfollow:hover{
+    margin-left: 60px;
+    height: 20px;
+    width: 100px;
+    background-color: orangered;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 8px;
+    color: whitesmoke;
+}
+#text{
+    height: 30px;
+    width: 150px;
+    margin-left: 20px;
+}
+#lable{
+    margin-left: 100px;
+    color: yellow;
+   
+}
+#resultn{
+    margin-left: 100px;
+}
+#fol{
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+}

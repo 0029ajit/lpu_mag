@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 17, 2014, 10:26:11 AM
+    Author     : vishwajeet
+*/
+#box{
+   margin-left: 50px;
+   height: 80px;
+   width: 500px;
+   background-color: #34495e;
+   border-radius: 7px;
+   padding-left: 50px;
+   padding-top: 10px;
+   margin-bottom: 10px;
+}
+#right{
+    float: right;
+    margin-right: 100px;
+}
+#link{
+    margin-top: 40px;
+    margin-left: 200px;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+}
+#link:hover{
+    margin-top: 40px;
+    margin-left: 200px;
+    background-color: orange;
+    color: red;
+    padding: 4px;
+    border-radius: 3px;
+}
+#box2{
+    background-color: #34495e;
+    width: 500px;
+    height: 30px;
+    color: wheat;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    
+}
+#l{
+    color: wheat;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+#head{
+    width: 500px;
+    min-height: 30px;
+    color: wheat;
+    margin-left: 50px;
+    padding-left: 50px;
+    background-color: #2c3e50;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#left{
+    margin-left: 200px;
+}
+#ti{
+    margin-left: 180px;
+    color: yellow;
+    margin-bottom: 8px;
+}
+#con{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    width: 470px;
+    min-height: 30px;
+    color: wheat;
+    margin-left: 50px;
+    padding-left: 50px;
+    background-color: #34495e;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    
+}
+#new{
+    background-color: red;
+    padding: 2px;
+    color: white;
+}
+#thumbnail{
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+}

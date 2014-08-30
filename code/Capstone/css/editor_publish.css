@@ -1,0 +1,23 @@
+/* 
+    Created on : Mar 28, 2014, 1:30:53 PM
+    Author     : vishwajeet
+*/
+
+#form_button{
+    width: 275px;
+}
+#form{
+    margin-left: 15px;
+}
+#file{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: yellow;
+}
+#pub_img{
+    width: 428px;
+    height: 288px;
+    float: left;
+    border-radius: 5px;
+    
+}

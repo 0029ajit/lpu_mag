@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 5, 2014, 10:09:21 PM
+    Author     : vishwajeet
+*/
+#student_wrapper{
+    
+}
+#teacher_wrapper{
+    float: right;
+}
+#upper_student{
+    padding: 15px;
+    height: 20px;
+    width: 400px;
+    background-color: #1abc9c;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#content_student{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    width: 430px;
+    background-color: #2c3e50;
+}
+#footer_student{
+    height: 47px;
+    width: 430px;
+    background-color: #1abc9c;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+#upper_teacher{
+    padding: 15px;
+    height: 20px;
+    width: 400px;
+    background-color: #1abc9c;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#content_teacher{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    width: 430px;
+    background-color: #2c3e50;
+}
+#footer_teacher{
+    height: 47px;
+    width: 430px;
+    background-color: #1abc9c;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+h2{
+    color: wheat;
+    text-align: center;
+}
+#welcome{
+    color: blue;
+}
+.input{
+    margin-left: 50px; 
+    height: 30px;
+    width: 300px;
+    border-radius: 2px;
+    border: none;
+}
+h3{
+    color: whitesmoke;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.file{
+    color: #0eef6d;
+    margin-left: 50px;
+}
+.reg_button{
+    height: 30px;
+    width: 300px;
+    border: none;
+    background-color: #25fd71;
+    border-radius: 4px;
+    margin-left: 50px; 
+    margin-top: 20px;
+}
+.reg_button:hover{
+    height: 30px;
+    width: 300px;
+    border: none;
+    background-color: yellow;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-top: 20px;
+}

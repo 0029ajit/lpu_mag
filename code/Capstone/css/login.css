@@ -1,0 +1,84 @@
+/* 
+    Created on : Mar 22, 2014, 5:22:36 PM
+    Author     : vishwajeet
+*/
+#login_wrapper{
+    border-color: black;
+    border-style: solid;
+    border-width: 0px;
+    width: 400px;
+    margin: 0 450px;
+}
+#upper_login{
+    width: 380px;
+    height: 25px;
+    background-color: #1abc9c;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#lower_login{
+    border-color: black;
+    border-style: solid;
+    border-width: 0px;
+    width: 400px;
+    height: 200px;
+    background-color: #34495e;
+}
+#footer_login{
+    width: 380px;
+    height: 23px;
+    background-color: #1abc9c;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    padding: 10px;
+}
+#form{
+    padding: 50px;
+    
+}
+.form_element{
+    width: 273px;
+    height: 30px;
+    line-height: 25px;
+    border: 0px solid green;
+    margin-bottom: 2px;
+}
+img{
+    display: inline-block;
+}
+#form_button{
+    margin-top: 10px;
+    background: #91f9e5;
+    width: 304px;
+    border: 0px solid green;
+    border-radius: 5px;
+}
+#form_button:hover{
+    background: #0eef6d;
+}
+.login_pic{
+    width: 28px;
+    height: 31px;
+}
+table{
+    border-width: 0px;
+}
+td{
+    border-width: 0px;
+}
+tr{
+    border-width: 0px;
+}
+#error > p{
+    background-color: red;
+    color: white;
+    padding: 4px;
+    text-align: center;
+}
+#login_img{
+    float: left;
+    width: 450px;
+}

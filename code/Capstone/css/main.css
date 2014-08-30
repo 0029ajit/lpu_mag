@@ -1,0 +1,74 @@
+/* 
+    Created on : Mar 22, 2014, 4:07:31 PM
+    Author     : vishwajeet
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial;
+    font-size: 12px;
+    color: #838f88;
+}
+#header,#logo,#bar{
+    display: block;
+}
+img{
+    border: none;
+}
+a:link{
+    color: #303030;
+    text-decoration: none;
+}
+a:visited{
+    color: #303030;
+    text-decoration: none;
+}
+a:active{
+    color: #303030;
+    text-decoration: none;
+}
+a:hover{
+    color: #303030;
+    text-decoration: none;
+}
+#wrapper{
+    width: 900px;
+    margin: 15px auto;
+    border-color: black;
+    border-style: solid;
+    border-width: 0px;
+}
+#mag_logo{
+    width: 250px;
+    height: 70px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+#bar{
+    background-color: #1abc9c;
+    margin-bottom: 35px;
+    height: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.bar_links{
+    background-color: #91f9e5;
+    padding: 5px;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 4px;
+}
+.bar_links:hover{
+    background-color: #0eef6d;
+    padding: 5px;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 4px;
+}
+.bar_links > b{
+    color: #303030;
+}
